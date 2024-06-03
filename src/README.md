@@ -1,4 +1,4 @@
 # finance-figma-community
 
 
-<img src="src/assets/banner-app.jpg"/>   
+<img src="src/assets/banner-app.jpg" alt= "banner home"/>   
